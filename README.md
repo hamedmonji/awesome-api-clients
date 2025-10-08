@@ -37,6 +37,7 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [verb](https://github.com/federicotdn/verb) - Organize and send HTTP requests from Emacs
 - [rest.nvim](https://github.com/rest-nvim/rest.nvim) - A fast Neovim http client written in Lua
 - [kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A minimal REST-Client Interface for Neovim.
+- [resterm](https://github.com/unkn0wn-root/resterm) - Terminal REST/Graphql/gRPC client written in Go.
 
 ## CLI
 
