@@ -53,6 +53,7 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [httpYac](https://httpyac.github.io/) ([repo](https://github.com/anweber/httpyac)) - Yet another REST client to send REST, SOAP, GraphQL and gRPC requests
 - [ATAC](https://atac.julien-cpsn.com/) ([repo](https://github.com/Julien-cpsn/ATAC)) - A simple postman like API client for terminal
 - [Better Curl Saul](https://github.com/DeprecatedLuar/better-curl-saul) - Workspace-based HTTP client with interactive variable prompting and TOML configuration
+- [Slumber](https://slumber.lucaspickering.me/) ([repo](https://github.com/LucasPickering/slumber)) - A terminal-based HTTP/REST client, with TUI and CLI usage mods
 
 ## Automated Testing
 
