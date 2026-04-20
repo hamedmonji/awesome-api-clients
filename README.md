@@ -18,6 +18,7 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 
 ## Desktop
 
+- [Postchi](https://getpostchi.com) ([repo](https://github.com/dramaticallyincorrect/Postchi)) - IDE like api client that feels intuitive to use.
 - [Bruno](https://usebruno.com) ([repo](https://github.com/usebruno/bruno)) - Opensource IDE For Exploring and Testing APIs
 - [Yaak](https://yaak.app) ([repo](https://github.com/yaakapp/app)) - The most intuitive desktop API client
 - [API Dash](https://github.com/foss42/apidash) - API Dash is a beautiful open-source cross-platform API Client
